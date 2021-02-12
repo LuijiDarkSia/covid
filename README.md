@@ -8,3 +8,8 @@
 - Lats and Longs: https://raw.githubusercontent.com/LuijiDarkSia/covid/main/data/covid_19_clean_complete_for.csv
 - Geojson GER: https://raw.githubusercontent.com/LuijiDarkSia/covid/main/data/world_country_and_usa_states_latitude_and_longitude_values.csv
 
+## Goals
+
+- Create useful Plots of the pandemic evolution
+- Create map plot of current situation in Germany
+- Publish as Dash Dashboard
