@@ -13,3 +13,7 @@
 - Create useful Plots of the pandemic evolution
 - Create map plot of current situation in Germany
 - Publish as Dash Dashboard
+
+
+## Required Packages
+- You can find the required packages in the requirements.txt
